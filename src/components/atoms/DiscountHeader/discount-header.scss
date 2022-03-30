@@ -1,0 +1,24 @@
+@import "../../../styles/base";
+
+.header {
+  align-items: center;
+  display: flex;
+  gap: 18px;
+  justify-content: center;
+  height: 56px;
+  min-width: 375px;
+}
+
+.discount__container {
+  background: $color-teal;
+  color: $color-white;
+}
+.discount {
+  font-size: $font-size-medium;
+}
+.image__wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 18px;
+}

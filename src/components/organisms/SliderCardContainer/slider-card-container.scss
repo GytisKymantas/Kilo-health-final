@@ -1,0 +1,19 @@
+@import "../../../styles/base";
+
+.slider__header {
+  margin-top: 30px;
+  margin-bottom: 24px;
+  font-weight: $font-weight-bold;
+  font-size: $font-size-big;
+  line-height: 28px;
+}
+
+.slider {
+  margin: 0 16px 0 16px;
+
+  @media (min-width: 440px) {
+    // margin: 0 auto;
+    // display: flex;
+    // justify-content: center;
+  }
+}
