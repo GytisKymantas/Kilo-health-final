@@ -1,6 +1,6 @@
 import React from "react";
 import "./phones.scss";
-import DoublePhone from "../../../assets/doublephone.svg";
+import DoublePhone from "../../../assets/doublephone.png";
 import Diagonal from "../../../assets/diagonal.svg";
 
 const Phones = () => {

@@ -1,6 +1,6 @@
-import LadyInBlue from "../../../assets/ladyinblue.svg";
-import LadyInBrightRed from "../../../assets/ladyinbrightred.svg";
-import LadyInPink from "../../../assets/ladyinpink.svg";
+import LadyInBlue from "../../../assets/ladyinblue.png";
+import LadyInBrightRed from "../../../assets/ladyinbrightred.png";
+import LadyInPink from "../../../assets/ladyinpink.png";
 
 export const SliderCardData = [
   {
