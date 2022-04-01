@@ -1,7 +1,7 @@
 
 
 
-*edited on 04/01* I had to fix a few svg files which had caused enormous performance issues due to their size and made the whole npm start completely unstartable and would make your testing experience undoable. I hope it wont disqualify me that I updated it post my given time, To my defense, I have fairly updated only this problem and didnt touch any of other components that would unfairly give me an advantage over other candidates. Thank You for understanding!
+*edited on 04/01* I had to fix a few svg files which had caused enormous performance issues due to their size and made the whole npm start completely unstartable and would make your testing undoable. I hope it wont disqualify me that I updated it post my given time. To my defense, I have updated only this problem with rendering issues and didnt touch any of other components that would unfairly give me an advantage over other candidates. Thank You for understanding!
 
 
 Due to unforeseen bugs while trying to implement libraries, I had to create a new repository. The original one
